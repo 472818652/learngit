@@ -1,3 +1,4 @@
 init
 conflict2
+conflict1
 conflict3
